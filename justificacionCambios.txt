@@ -16,15 +16,3 @@ consecuentemente he eliminado la declaracion de b al principio.
 He modificado los mensajes de salida para que sean mas claros
 - Si la nota más alta se repite o no.
 - Si la media es superior o inferior a 5.
-
-6. CONSERVACIÓN DE LA FUNCIONALIDAD
-Los cambios realizados no alteran el comportamiento del programa.
-El resultado final sigue siendo:
-- Detectar la nota más alta.
-- Verificar si se repite.
-- Calcular la media.
-- Evaluar si la media es correcta.
-
-En conclusión, los cambios aplicados mejoran la claridad,
-documentación y calidad del código sin modificar su lógica original.
-
