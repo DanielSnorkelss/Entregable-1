@@ -13,7 +13,6 @@ consecuentemente he eliminado la declaracion de b al principio.
 
 He cambiado los for por metodos para que se vea mas entendible en el codigo y por si hay que reutilizarlo mas tarde
 
-
 He modificado los mensajes de salida para que sean mas claros
 - Si la nota más alta se repite o no.
 - Si la media es superior o inferior a 5.
