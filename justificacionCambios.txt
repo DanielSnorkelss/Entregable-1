@@ -2,7 +2,6 @@ He cambiado los nombres de las variables para que sean mas claras, poniendo nomb
 - notas
 - notaAlta
 - numRepeticiones
-- sumaNotas
 - media
 
 Tambien he eliminado el if
